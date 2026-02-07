@@ -7,9 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Firebird 3019'
-copyright = '2026, Ira Parsons'
+copyright = '2026, Firebird Robotics'
 author = 'Ira Parsons'
-release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
