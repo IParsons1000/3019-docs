@@ -10,5 +10,6 @@ Firebird 3019 documentation
    :maxdepth: 2
    :caption: Contents:
 
+   operations.md
    networking.md
    vision.md
