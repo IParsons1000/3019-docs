@@ -12,6 +12,6 @@ Firebird 3019 documentation
    :glob:
    :titlesonly:
 
-   operations/index.rst
-   networking/index.rst
-   vision/index.rst
+   Robot Operation <operations/index.rst>
+   Networking <networking/index.rst>
+   Vision <vision/index.rst>
