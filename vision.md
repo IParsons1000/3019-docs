@@ -6,7 +6,7 @@
 
 ## Common Problems
 
-### The RIO isn't receiving tag data, but I can see the tags in the web interface.
+### The RIO isn't receiving tag data, but I can see the tags in the web interface
 
 This means that the RIO cannot communicate with the coprocessor(s). This can happen if
  - The IP address of the RIO is not set to 10.30.19.2
