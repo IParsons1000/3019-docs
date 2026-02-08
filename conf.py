@@ -26,3 +26,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '*_.md']
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_logo = 'fbrobotics.png'
