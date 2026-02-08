@@ -12,9 +12,6 @@ Firebird 3019 documentation
    :glob:
    :titlesonly:
 
-   operations.md
-   operations/*
-   networking.md
-   networking/*
-   vision.md
-   vision/*
+   operations/index.rst
+   networking/index.rst
+   vision/index.rst
