@@ -6,8 +6,6 @@
 Firebird 3019 documentation
 =========================================
 
-.. image:: fbrobotics.png
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
