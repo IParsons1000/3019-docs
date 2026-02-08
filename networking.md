@@ -8,4 +8,8 @@ The robot has an onboard network mediated by the [robot radio](radio.md), which 
 
 ## Configuration
 
+## Radio
+
+See: [Radio](radio.md)
+
 ## Common Problems
