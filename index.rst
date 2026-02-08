@@ -9,6 +9,7 @@ Firebird 3019 documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
    operations.md
       ops/*
