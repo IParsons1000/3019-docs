@@ -44,3 +44,7 @@ This means that the RIO cannot communicate with the coprocessor(s). This can hap
 ### The robot pose in AdvantageScope quivers when receiving vision updates
 
 If the robot pose is moving translationally, incrase the linear standard deviation baseline in VisionConstants.  If the robot is moving angularly (rotating), increase the angular standard deviation baseline in VisionConstants.
+
+### The video feed is cutting out to a rainbow test pattern/feed not available.
+
+This usually happens when the vision software is overloaded.  Usually this can be fixed with a reboot.
