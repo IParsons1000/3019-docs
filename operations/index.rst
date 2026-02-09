@@ -9,6 +9,7 @@ Robot Operation
 
    driverstation.md
    roborio.md
+   controller.md
 
 .. include:: operations_.md
    :parser: myst_parser.sphinx_
